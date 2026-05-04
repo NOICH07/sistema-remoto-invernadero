@@ -97,7 +97,6 @@ Sistema Remoto para Sistema Invernadero/
 ## 🔐 Seguridad
 
 **⚠️ IMPORTANTE:**
-- **NUNCA** subas archivos con contraseñas reales
 - Usa `appsettings.example.json` como template
 - Agrega `appsettings.json` al `.gitignore` (ya incluido)
 - Cambia regularmente las credenciales de acceso
@@ -112,21 +111,8 @@ Sistema Remoto para Sistema Invernadero/
 
 ## 👥 Autores
 
-- Desarrollador principal: [Tu nombre]
-- Proyecto de: [Institución/Empresa]
-
-## 📝 Licencia
-
-Este proyecto está licenciado bajo [Especificar licencia - ej: MIT, GPL, etc.]
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Para cambios importantes, abre un issue primero para discutir los cambios propuestos.
-
-## 📞 Soporte
-
-Para reportar problemas o sugerencias, abre un issue en GitHub.
-
+- Desarrollador principal: [NOICH07]
+- Proyecto de: [Instituto Tecnologico de Culiacan]
 ---
 
 **Última actualización:** 2026-05-04
