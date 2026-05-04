@@ -1,0 +1,54 @@
+# Archivos de credenciales y configuración sensible
+CONEXION A LA BASE DE DATOS_user.txt
+appsettings.json
+appsettings.*.json
+*.config
+Web.config
+App.config
+.env
+.env.local
+.env.*.local
+secrets.json
+
+# Directorios de compilación C# / .NET
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+*.suo
+*.ncb
+*.aps
+.DS_Store
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Archivos de compilación
+*.o
+*.a
+*.so
+*.dylib
+
+# Archivos IDE
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# Node modules (si usa npm)
+node_modules/
+package-lock.json
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
