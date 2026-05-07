@@ -100,7 +100,7 @@ Sistema Remoto para Sistema Invernadero/
 - Usa `appsettings.example.json` como template
 - Agrega `appsettings.json` al `.gitignore` (ya incluido)
 - Cambia regularmente las credenciales de acceso
-- No compartas el archivo `.gitignore` con credenciales
+
 
 ## 🗄️ Base de Datos
 
