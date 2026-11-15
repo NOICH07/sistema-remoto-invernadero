@@ -49,12 +49,12 @@ copy appsettings.example.json appsettings.json
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Port=3306;Database=invernadero_db;User=root;Password=TU_CONTRASEÑA;"
+    "DefaultConnection": "Server=localhost;Port=3306;Database=NombreDB;User=root;Password=TU_CONTRASEÑA;"
   }
 }
 ```
 
-### 4. Compilar y ejecutar
+# 4. Compilar y ejecutar
 
 ```bash
 # Abrir solución
@@ -67,16 +67,15 @@ dotnet build
 dotnet run
 ```
 
-## 🚀 Uso
+# Uso
 
 Ejecuta el archivo batch incluido:
 ```bash
 ejecutar_programa.bat
 ```
 
-O desde Visual Studio, presiona `F5` para depuración.
 
-## 📁 Estructura del Proyecto
+# Estructura del Proyecto
 
 ```
 Sistema Remoto para Sistema Invernadero/
@@ -94,22 +93,14 @@ Sistema Remoto para Sistema Invernadero/
 └── README.md                     # Este archivo
 ```
 
-## 🔐 Seguridad
-
-**⚠️ IMPORTANTE:**
-- Usa `appsettings.example.json` como template
-- Agrega `appsettings.json` al `.gitignore` (ya incluido)
-- Cambia regularmente las credenciales de acceso
-
-
-## 🗄️ Base de Datos
+## Base de Datos
 
 - **Motor:** MySQL
 - **Versión:** 8.0+
 - **Tipo:** Relacional
 - **Conexión:** Localhost:3306
 
-## 👥 Autores
+## Autores
 
 - Desarrollador principal: [NOICH07]
 - Proyecto de: [Instituto Tecnologico de Culiacan]
